@@ -1,0 +1,2 @@
+; This END_PRINT macro must be defined in printer.cfg
+END_PRINT
